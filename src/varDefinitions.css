@@ -1,0 +1,29 @@
+:root {
+    /*  Color definitions */
+    --crispyWhite: #ffffff;
+    
+    /*  Background colors  */
+    --mainBackground: #3d4064;
+    --displayDark: #161830;
+    
+    /*  Border & button colors  */
+    --buttonDark: #1f223e;
+    --buttonHover: #98cbc7;
+    --buttonBack: #dadadf;
+    --buttonText: #161830;
+    --buttonBlue: #3741b4c3;
+    --buttonRed: #c92b2b9e;
+    --buttonLight: #dadadf;
+
+    /*  Site definitions  */
+    --mainHeight: 80vh;
+    --mainWidth: 25vw;
+    --innerBoxWidth: 20vw;
+    --buttonWidth: 4vw;
+    --buttonHeight: 7vh;
+    
+    /* various global constants */
+    --niceRoundCorners: 16px;
+    --notSoRoundCorners: 8px;
+  }
+  
